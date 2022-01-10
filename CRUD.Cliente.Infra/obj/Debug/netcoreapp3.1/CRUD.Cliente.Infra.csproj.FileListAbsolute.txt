@@ -1,0 +1,16 @@
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\bin\Debug\netcoreapp3.1\CRUD.Cliente.Infra.deps.json
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\bin\Debug\netcoreapp3.1\CRUD.Cliente.Infra.runtimeconfig.json
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\bin\Debug\netcoreapp3.1\CRUD.Cliente.Infra.runtimeconfig.dev.json
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\bin\Debug\netcoreapp3.1\CRUD.Cliente.Infra.dll
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\bin\Debug\netcoreapp3.1\CRUD.Cliente.Infra.pdb
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\bin\Debug\netcoreapp3.1\CRUD.Cliente.Domain.dll
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\bin\Debug\netcoreapp3.1\CRUD.Cliente.Domain.pdb
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\obj\Debug\netcoreapp3.1\CRUD.Cliente.Infra.csproj.AssemblyReference.cache
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\obj\Debug\netcoreapp3.1\CRUD.Cliente.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\obj\Debug\netcoreapp3.1\CRUD.Cliente.Infra.AssemblyInfoInputs.cache
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\obj\Debug\netcoreapp3.1\CRUD.Cliente.Infra.AssemblyInfo.cs
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\obj\Debug\netcoreapp3.1\CRUD.Cliente.Infra.csproj.CoreCompileInputs.cache
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\obj\Debug\netcoreapp3.1\CRUD.Cliente.Infra.csproj.CopyComplete
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\obj\Debug\netcoreapp3.1\CRUD.Cliente.Infra.dll
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\obj\Debug\netcoreapp3.1\CRUD.Cliente.Infra.pdb
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Infra\obj\Debug\netcoreapp3.1\CRUD.Cliente.Infra.genruntimeconfig.cache

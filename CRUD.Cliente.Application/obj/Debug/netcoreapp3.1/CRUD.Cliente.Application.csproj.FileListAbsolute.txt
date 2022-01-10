@@ -1,0 +1,13 @@
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Application\bin\Debug\netcoreapp3.1\CRUD.Cliente.Application.deps.json
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Application\bin\Debug\netcoreapp3.1\CRUD.Cliente.Application.dll
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Application\bin\Debug\netcoreapp3.1\CRUD.Cliente.Application.pdb
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Application\bin\Debug\netcoreapp3.1\CRUD.Cliente.Domain.dll
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Application\bin\Debug\netcoreapp3.1\CRUD.Cliente.Domain.pdb
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Application\obj\Debug\netcoreapp3.1\CRUD.Cliente.Application.csproj.AssemblyReference.cache
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Application\obj\Debug\netcoreapp3.1\CRUD.Cliente.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Application\obj\Debug\netcoreapp3.1\CRUD.Cliente.Application.AssemblyInfoInputs.cache
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Application\obj\Debug\netcoreapp3.1\CRUD.Cliente.Application.AssemblyInfo.cs
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Application\obj\Debug\netcoreapp3.1\CRUD.Cliente.Application.csproj.CoreCompileInputs.cache
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Application\obj\Debug\netcoreapp3.1\CRUD.Cliente.Application.csproj.CopyComplete
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Application\obj\Debug\netcoreapp3.1\CRUD.Cliente.Application.dll
+D:\Workspace\Nextoo\CRUD.Cliente\CRUD.Cliente.Application\obj\Debug\netcoreapp3.1\CRUD.Cliente.Application.pdb

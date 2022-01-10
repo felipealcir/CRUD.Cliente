@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n+wGAHH/kn/IE/HXp0Yu+xcAwXrccmz5U9yLV+NK8muM+FZ1GUu7Cv6HsrhhOeMeeadHNP5RWvtVRLIu15qmDw==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\Nextoo\\CRUD.Cliente\\CRUD.Cliente.Domain\\CRUD.Cliente.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felipe Ferreira\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\Felipe Ferreira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
